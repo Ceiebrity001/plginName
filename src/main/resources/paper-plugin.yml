@@ -1,0 +1,4 @@
+name: plginName
+version: '1.0'
+main: java.example.plginname
+api-version: '1.16'
